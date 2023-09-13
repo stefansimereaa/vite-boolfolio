@@ -85,6 +85,7 @@ onMounted(() => {
     </div>
 </template>
 
+
 <style scoped>
 .description {
     text-align: justify;

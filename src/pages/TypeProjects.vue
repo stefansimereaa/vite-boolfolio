@@ -46,4 +46,5 @@ onMounted(() => { fetchProjects() })
     </div>
 </template>
 
+
 <style scoped></style>
